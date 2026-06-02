@@ -1,46 +1,67 @@
-# Hi there, I'm Linga Adithya 👋
+<h1 align="center">Linga Adithya K</h1>
 
-🚀 Full Stack Developer & AI Enthusiast
+<p align="center">
+  Full Stack Developer • AI Engineer
+</p>
 
-I'm passionate about building products that solve real-world problems through technology.
+<p align="center">
+  <a href="https://www.linkedin.com/in/linga-adithya-k-9534b2255/">
+    LinkedIn
+  </a>
+  •
+  <a href="mailto:lingaadithya14@gmail.com">
+    Email
+  </a>
+</p>
 
-## 🛠 Tech Stack
+<br>
 
-### Languages
-- Python
-- JavaScript
-- Java
-- SQL
+<div align="center">
 
-### Frontend
-- React
-- HTML
-- CSS
-- Tailwind CSS
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+Engineer;Building+Scalable+Products;Exploring+Machine+Learning+and+Computer+Vision" />
 
-### Backend
-- Node.js
-- Express.js
-- Firebase
+</div>
 
-### AI & ML
-- TensorFlow
-- PyTorch
-- OpenCV
-- Scikit-learn
+---
 
-## 🚀 Projects
+### About
 
-### Kaarigar Konnect
-An AI-powered platform connecting artisans with customers.
+I enjoy building products that combine software engineering and artificial intelligence to solve practical problems.
 
-### Glacial Lake Segmentation
-Deep learning project using U-Net for satellite image segmentation.
+My interests include:
 
-### E-Commerce Website
-Full-stack online shopping platform with payment integration.
+- Backend Engineering
+- Full Stack Development
+- Machine Learning
+- Computer Vision
+- System Design
+- Product Development
 
-## 📫 Connect with Me
+---
 
-- LinkedIn: https://www.linkedin.com/in/linga-adithya-k-9534b2255/
-- Email: lingaadithya14@gmail.com
+### Tech Stack
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,express,firebase,mysql,postgres,mongodb,git,github,vscode,tensorflow,pytorch" />
+
+</p>
+
+---
+
+### GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lingaadithya&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingaadithya&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>Building technology that creates measurable impact.</i>
+</p>
