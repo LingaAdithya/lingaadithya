@@ -1,54 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=32&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Linga+Adithya+K;Full+Stack+Developer;AI+Engineer;Building+Scalable+Digital+Products" />
-
-<br>
-
-<p>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-
-  <a href="https://github.com/lingaadithya">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Linga%20Adithya%20K&fontSize=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer&descAlignY=60"/>
 
 </div>
 
----
-
-## About
-
-I am a developer focused on building practical software products that combine robust engineering with artificial intelligence.
-
-My interests span across backend systems, full-stack development, machine learning, computer vision, and scalable application architecture.
-
-I enjoy transforming ideas into production-ready solutions while continuously exploring new technologies and engineering practices.
-
----
-
-## Technology Stack
-
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,firebase,mongodb,mysql,postgres,git,github,tensorflow,pytorch,vscode&perline=8"/>
-
-</div>
-
----
-
-## Development Activity
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=lingaadithya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingaadithya&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Exploring+Artificial+Intelligence;Backend+Engineering+and+System+Design;Turning+Ideas+Into+Products"/>
 
 </div>
 
@@ -56,59 +14,84 @@ I enjoy transforming ideas into production-ready solutions while continuously ex
 
 <div align="center">
 
-<img width="98%" src="https://streak-stats.demolab.com?user=lingaadithya&theme=github-dark-blue&hide_border=true"/>
+<a href="https://www.linkedin.com/in/linga-adithya-k-9534b2255/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/lingaadithya">
+  <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
 ---
 
-## Contribution Graph
+## About Me
+
+I enjoy building products at the intersection of software engineering and artificial intelligence.
+
+My interests include:
+
+- Backend Engineering
+- Full Stack Development
+- Machine Learning
+- Computer Vision
+- System Design
+- Scalable Architectures
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lingaadithya&theme=github-compact&hide_border=true"/>
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,firebase,mongodb,mysql,postgres,tensorflow,pytorch,git,github,docker&perline=6"/>
 
 </div>
 
 ---
 
-## Areas of Interest
+## Developer Workspace
 
-<table align="center">
-<tr>
-<td align="center" width="33%">
+<div align="center">
 
-### Backend Engineering
+<img width="70%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGFna2R4Y3M0YzFha2g4NmJ3dW80dDl0bDVpZTB2eHRiOWR0aW1kYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif"/>
 
-Designing APIs, databases, authentication systems, and scalable architectures.
-
-</td>
-
-<td align="center" width="33%">
-
-### Artificial Intelligence
-
-Machine Learning, Deep Learning, Computer Vision, and intelligent applications.
-
-</td>
-
-<td align="center" width="33%">
-
-### Full Stack Development
-
-Building complete user-focused applications from frontend to deployment.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## Currently Exploring
+## GitHub Analytics
+
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=lingaadithya&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lingaadithya&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+## Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lingaadithya&theme=github-compact&hide_border=true"/>
+
+</div>
+
+---
+
+## Current Focus
 
 ```text
-• Advanced System Design
-• Scalable Backend Architectures
-• Computer Vision Applications
-• MLOps & Model Deployment
-• AI-Powered Products
+Building scalable backend systems
+Exploring AI-powered applications
+Computer Vision and Deep Learning
+System Design and Architecture
+Open Source Contributions
