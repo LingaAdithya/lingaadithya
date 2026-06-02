@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=750&lines=Building+Scalable+Applications;Artificial+Intelligence+%26+Machine+Learning;Backend+Engineering+and+System+Design;Turning+Ideas+Into+Products"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Freelance+Full+Stack+Developer;AI+Engineer;Building+Scalable+Applications;Turning+Ideas+Into+Production-Ready+Products"/>
 
 <br><br>
 
@@ -30,14 +30,34 @@
 
 ## About Me
 
-I am a Full Stack Developer and AI Engineer passionate about building impactful software products that solve real-world problems.
+I am a Freelance Full Stack Developer and AI Engineer passionate about building software that solves real-world problems.
 
-My interests span across backend engineering, artificial intelligence, machine learning, computer vision, scalable systems, and product development.
+Over the years, I have worked on web applications, AI-powered solutions, backend systems, and custom software projects, taking ideas from concept to deployment.
 
-I enjoy transforming ideas into production-ready solutions while continuously exploring emerging technologies and engineering practices.
+My interests span across:
+
+- Backend Engineering
+- Full Stack Development
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- System Design
+- Product Development
+
+I enjoy collaborating with founders, businesses, and teams to build scalable and impactful digital products.
 
 ---
+## Professional Experience
 
+```text
+Freelance Full Stack Developer | AI Engineer
+
+• Develop end-to-end web applications and software solutions
+• Design scalable backend systems and APIs
+• Build AI-powered products and machine learning solutions
+• Work directly with clients from requirements gathering to deployment
+• Focus on creating practical technology that delivers measurable value
+```
 ## Tech Stack
 
 <div align="center">
