@@ -1,6 +1,6 @@
 <div align="center">
 
-# linga adithya k
+# Linga K
 
 full stack developer · ai engineer · freelance
 
